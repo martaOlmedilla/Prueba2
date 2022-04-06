@@ -1,2 +1,4 @@
 escribo algo en local
 escribo otra linea en local para generar conflicto
+escribo algo desde GItHub en remoto
+
